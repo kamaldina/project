@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.about {
+    width: 600px;
+    height: 600px;
+    background: #FFF844;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    position: relative;
+    Top: 133px;
+    Left: 56px;
+
+}
+
+.title {
+    width: 100px;
+    height: 126px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    left: 150px;
+    top: 137px;
+    z-index: 3;
+
+}
+
+.title-2 {
+    width: 100px;
+    height: 126px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    left: 350px;
+    top: 137px;
+    z-index: 3;
+
+}
+
+.seldom {
+    width: 339px;
+    height: 263px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: absolute;
+    top: 221px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 2;
+}
+
+.png {
+    width: 300px;
+    height: 269px;
+    background: black;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 243px;
+
+}
+
+
+.simple {
+    width: 600px;
+    height: 600px;
+    background: #FFF844;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    position: relative;
+    left: 700px;
+    overflow: hidden;
+    margin-left: 44px;
+    margin-top: -477px;
+
+
+}
+
+.dimple {
+    width: 100px;
+    height: 126px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    left: 150px;
+    top: 137px;
+    z-index: 3;
+
+}
+
+.pop-it {
+    width: 100px;
+    height: 126px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    left: 350px;
+    top: 137px;
+    z-index: 3;
+
+}
+
+.skvish {
+    width: 339px;
+    height: 263px;
+    border-radius: 50%;
+
+    top: 450px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 2;
+    background-color: #FFF844;
+    position: absolute;
+
+}
+
+.pop-iit {
+    width: 300px;
+    height: 269px;
+    position: absolute;
+    background: black;
+    border-radius: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 700px;
+    bottom: 200px;
+
+
+}
+
+.cube {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background: blue;
+    margin-left: 100px;
+}
+
+.cube-white-1 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 40px;
+    top: 40px;
+    background: white;
+}
+
+.cube-white-2 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    background: white;
+}
+
+.cube-white-3 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    bottom: 40px;
+    right: 40px;
+    background: white;
+}
+
+.style {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background: #FF4085;
+    margin-left: 195px;
+
+}
+
+.list1 {
+    position: absolute;
+    width: 177px;
+    height: 228px;
+    background: #C4C4C4;
+    z-index: 1;
+    top: 45px;
+    left: 45px;
+}
+
+.list2 {
+    position: absolute;
+    width: 177px;
+    height: 228px;
+    background: #FFFFFF;
+    z-index: 3;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.list3 {
+    position: absolute;
+    width: 177px;
+    height: 228px;
+    z-index: 1;
+    background: #C4C4C4;
+    right: 45px;
+    bottom: 45px;
+}
+
+.cubes {
+    display: flex;
+    margin-top: 250px;
+}
